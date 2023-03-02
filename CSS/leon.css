@@ -185,6 +185,9 @@ color: #777;
 font-size: 15px;
 }
 /*start service*/
+.services{
+    padding-top:60px;
+}
 .services .services-content {
 display: grid;
 grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
